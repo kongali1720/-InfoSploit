@@ -49,7 +49,7 @@ Selamat Datang | WELCOME
       $ cd Desktop
       $ mkdir InfoSploit
       $ cd InfoSploit
-      $ git clone https://github.com/kongali1720/InfoSploit
+      $ git clone https://github.com/CybernetiX-S3C/InfoSploit
       $ ls
       $ cd InfoSploit
       $ ls
